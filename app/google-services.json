@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437452929013",
+    "project_id": "cogumelo-produtora",
+    "storage_bucket": "cogumelo-produtora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437452929013:android:1d14cfdc19dc8cf78d52bc",
+        "android_client_info": {
+          "package_name": "com.example.cogumeloprodutora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437452929013-uiml6gbfuolpk4nno23gs7dmhd6pnt6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vzFbQH-sBnic709A7Jwp_vbxqwfOtB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437452929013-uiml6gbfuolpk4nno23gs7dmhd6pnt6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
